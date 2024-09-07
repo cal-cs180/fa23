@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>cs194-26: Image Manipulation and Computational Photography</title>
+<link rel="StyleSheet" href="../style.css" type="text/css" media="all" />
+</head>
+<body>
+<h1>
+<img src="../../463_files/ucbseal_139_540.png" alt="berkeley logo" height="75" width="75"/>Final Project<br />
+<a href="../../">CS194-26: Image Manipulation and Computational Photography</a> </h1>
+<h2>
+<!-- Final Project -->
+<b>Due date for suggested assignments: 11:59pm on Friday, Dec 7th, 2018 </b>
+<br/>
+<b>Due date for final presentations (proposed project only): TBD</b>
+<br/>
+<b>Due date for final report (proposed projects only): 11:59pm on Wednesday, Dec 12nd, 2018 </b>
+</h2>
+<p>
+  <!-- <h3>Background</h3> -->
+  <br/>
+</p>
+<p>All students should do a final project for the class.</p>
+<h3>For those who would like to do their own projects</h3>
+<p>You need to subjmit a proposal. You may work in pairs if you want, but you need to double the amount of work put into the project. <br/>
+  <br/>
+Take a look at <a href="https://inst.eecs.berkeley.edu/~cs194-26/fa17/upload/files/projFinalProposed/">previous
+projects</a> for inspiration. </p>
+<p>&nbsp;</p>
+<h3>For those who would like to do pre-canned projects.</h3>
+<p>
+  You are welcome to do <u>two</u> assignments from the following list instead of an idea of their own.
+  <br> Alternatively, groups of two students can jointly submit <u>three</u> assignments. At least one extra bells&whistles should be submitted with one of the assignments.
+</p>
+
+<p>
+<b>Assignments:</b>
+<ul>
+<li><a href="http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/hw/as4/as4.html">Triangulation Matting and Compositing</a>
+(<a href="http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/Papers/smith-blin.pdf"> paper</a>)</li>
+<li><a href="http://cs.brown.edu/courses/csci1290/asgn/proj5/">High Dynamic Range Imaging
+</a></li>
+<li><a href="http://graphics.cs.cmu.edu/courses/15-463/2010_spring/hw/proj0/">Vertigo shot</a>
+</li>
+<li><a href="http://graphics.cs.cmu.edu/courses/15-463/2010_spring/hw/proj2/index.html">Fake Miniatures</a>
+</li>
+<li><a href="http://graphics.cs.cmu.edu/courses/15-463/2012_fall/hw/proj2g-eulerian/">Video Magnification</a>
+</li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs194-26/fa18/hw/proj4-seamcarving/index.html">Seam Carving</a>
+</li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs194-26/fa16/hw/proj7-stitch/proj7g/">Tour into the Picture</a>
+</li>
+<li><a href="https://courses.engr.illinois.edu/cs445/fa2015/projects/quilting/ComputationalPhotography_ProjectQuilting.html">Image Quilting
+</a></li>
+</ul>
+</p>
+
+</body>
+</html>
